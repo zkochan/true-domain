@@ -26,7 +26,7 @@ Inspired by [this][blog-post] blog post by Ross Scrivener.
 
 ## License
 
-MIT
+MIT © [Zoltan Kochan](https://www.kochan.io)
 
 
 [blog-post]: http://rossscrivener.co.uk/blog/javascript-get-domain-exclude-subdomain
